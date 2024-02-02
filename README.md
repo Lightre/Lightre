@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.imgur.com/dw6CTHB.png" />
+  <img height="320" src="https://i.imgur.com/dw6CTHB.png" />
 </div>
 
 # 📌 Socials:
