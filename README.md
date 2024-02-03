@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="320" src="https://i.imgur.com/dw6CTHB.png" />
+  <a href="https://github.com/Lightre">
+    <img height="320" src="https://i.imgur.com/dw6CTHB.png" />
+  </a>
 </div>
 
 # 📌 Socials:
