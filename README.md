@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <a href="https://github.com/Lightre">
     <img height="320" src="https://i.imgur.com/dw6CTHB.png" />
   </a>
