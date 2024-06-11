@@ -11,8 +11,6 @@
 <div alighn="left">
   <a href="https://www.cplusplus.com">
     <img height="40" src="https://i.imgur.com/6EEf7PM.png" /> </a> <!-- C++ -->
-  <a href="https://i.imgur.com/WK9gwpT.png">
-    <img height="40" src="https://i.imgur.com/WK9gwpT.png" /> </a> <!-- C -->
   <a href="https://www.javascript.com">
     <img height="40" src="https://i.imgur.com/fqJyO4d.png" /> </a> <!-- JS -->
   <a href="https://i.imgur.com/VUNVNXw.png">
