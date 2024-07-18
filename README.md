@@ -9,13 +9,13 @@
 
 <div align="left">
   <a href="https://youtube.com/@lightre_7" target="_blank">
-    <img height="20" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
   </a> <!-- YouTube -->
   <a href="https://discord.gg/lightre" target="_blank">
-    <img height="20" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a> <!-- Discord -->
   <a href="https://x.com/lightre_" target="_blank">
-    <img height="20" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a> <!-- Twitter -->
 </div>
 
