@@ -5,7 +5,7 @@
 </div>
 
 # 📌 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lightre_7) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lightre) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/7Lightre)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lightre_7){:target="_blank"} [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lightre) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/7Lightre)
 
 # 🛠 Trying to Learn:
 <div alighn="left">
