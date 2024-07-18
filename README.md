@@ -7,18 +7,22 @@
 # 📌 Socials:
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lightre_7) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lightre) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/7Lightre) -->
 
-<div alighn="left">
-  <a href="https://youtube.com/@lightre_7">
-    <img height="40" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /> </a> <!-- YouTube -->
-  <a href="https://discord.gg/lightre">
-    <img height="40" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /> </a> <!-- Discord -->
-  <a href="https://x.com/lightre_">
-    <img height="40" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /> </a> <!-- Twitter -->
+<div align="left">
+  <a href="https://youtube.com/@lightre_7" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a> <!-- YouTube -->
+  <a href="https://discord.gg/lightre" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a> <!-- Discord -->
+  <a href="https://x.com/lightre_" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a> <!-- Twitter -->
 </div>
+
 
 # 🛠 Trying to Learn:
 
-<div alighn="left">
+<div align="left">
   <a href="https://www.cplusplus.com">
     <img height="40" src="https://i.imgur.com/6EEf7PM.png" /> </a> <!-- C++ -->
   <a href="https://www.javascript.com">
