@@ -8,16 +8,17 @@
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lightre_7) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lightre) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/7Lightre) -->
 
 <div align="left">
-  <a href="https://youtube.com/@lightre_7" target="_blank">
+  <a href="https://youtube.com/@lightre_7" target="_blank" onclick="window.open(this.href, '_blank'); return false;">
     <img height="25" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
   </a> <!-- YouTube -->
-  <a href="https://discord.gg/lightre" target="_blank">
+  <a href="https://discord.gg/lightre" target="_blank" onclick="window.open(this.href, '_blank'); return false;">
     <img height="25" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a> <!-- Discord -->
-  <a href="https://x.com/lightre_" target="_blank">
+  <a href="https://x.com/lightre_" target="_blank" onclick="window.open(this.href, '_blank'); return false;">
     <img height="25" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a> <!-- Twitter -->
 </div>
+
 
 
 # 🛠 Trying to Learn:
