@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Lightre">
-    <img height="320" src="https://i.imgur.com/dw6CTHB.png" />
+    <img height="320" src="https://i.imgur.com/3LRQlIa.png" />
   </a>
 </div>
 
