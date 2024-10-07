@@ -32,8 +32,6 @@
     <img height="40" src="https://i.imgur.com/VUNVNXw.png" /> </a> <!-- HTML5 -->
   <a href="https://i.imgur.com/rLWKJPo.png">
     <img height="40" src="https://i.imgur.com/rLWKJPo.png" /> </a> <!-- CSS3 -->
-  <a href="https://www.lua.org">
-    <img height="40" src="https://i.imgur.com/2aQnqmO.png" /> </a> <!-- LUA -->
 </div>
 
 # 📊 GitHub Stats:
