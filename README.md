@@ -11,10 +11,8 @@
     <img height="40" src="https://i.imgur.com/6EEf7PM.png" /> </a> <!-- C++ -->
   <a href="https://www.javascript.com">
     <img height="40" src="https://i.imgur.com/fqJyO4d.png" /> </a> <!-- JS -->
-  <a href="https://i.imgur.com/VUNVNXw.png">
-    <img height="40" src="https://i.imgur.com/VUNVNXw.png" /> </a> <!-- HTML5 -->
-  <a href="https://i.imgur.com/rLWKJPo.png">
-    <img height="40" src="https://i.imgur.com/rLWKJPo.png" /> </a> <!-- CSS3 -->
+  <a href="https://www.java.com/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> </a> <!-- Java -->
 </div>
 
 # 📊 GitHub Stats:
