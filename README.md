@@ -17,8 +17,8 @@
 ## 📉 omg stats omg
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lightre&theme=dracula&show_icons=true&hide_border=false&count_private=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightre&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lightre&theme=dark&show_icons=true&hide_border=true&count_private=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightre&theme=dark&show_icons=true&hide_border=true&layout=compact" height="320"/>
 </p>
 <p align="center">
   graphs look impressive, anyway ethal on top
