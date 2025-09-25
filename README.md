@@ -17,8 +17,8 @@
 ## 📉 omg stats omg
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lightre&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lightre&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lightre&theme=dracula&show_icons=true&hide_border=false&count_private=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lightre&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="160"/>
 </p>
 <p align="center">
   graphs look impressive, anyway ethal on top
