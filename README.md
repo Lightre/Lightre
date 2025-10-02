@@ -37,7 +37,7 @@
 
 ---
 
-## 🥵 random misery
+## 🥵 atma anai babai pitch
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" />
@@ -45,16 +45,6 @@
 <p align="center">
   life’s basically a giant <code>nullpointerexception</code>
 </p>
-
----
-
-## ☕ atma anai babai pitch
-
-<div align="center">
-  <a href="https://buymeacoffee.com/lightre" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
-</div>
 
 ---
 
