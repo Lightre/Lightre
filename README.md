@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,java,lua,discordjs,ps"/>
 </p>
 <p align="center">
-  <code>kiddieler lamerlar</code> konusurlar. ben senin gibileri siklemem, askim.
+  <code>kiddieler, lamerlar</code> konusurlar. ben senin gibileri siklemem, askim.
 </p>
 
 ---
