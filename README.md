@@ -1,4 +1,4 @@
-<h1 align="center">😧 LIGHTRE 😫</h1>
+<h1 align="center">😧 I AM LIGHTRE **** 😫</h1>
 <p align="center">from Kaedwen.</p>
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-## 🤡 last words
+## 🤡 and
 
 <p align="center">
 fuck meta
