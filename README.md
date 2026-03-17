@@ -1,4 +1,4 @@
-<h1 align="center">LINGKRE</h1>
+<h1 align="center">echo</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,java,lua,discordjs,ps"/>
 </p>
