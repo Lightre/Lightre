@@ -1,9 +1,4 @@
 <h1 align="center">LINGKRE</h1>
-
----
-
-## ⚡ mac10
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,java,lua,discordjs,ps"/>
 </p>
