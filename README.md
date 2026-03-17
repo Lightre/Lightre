@@ -1,9 +1,8 @@
-<h1 align="center">😧 I AM LIGHTRE **** 😫</h1>
-<p align="center">from Kaedwen.</p>
+<h1 align="center">LINGKRE</h1>
 
 ---
 
-## ⚡ skills
+## ⚡ mac10
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,java,lua,discordjs,ps"/>
@@ -14,7 +13,7 @@
 
 ---
 
-## 📉 fuk
+## 📉 p90
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lightre&theme=dark&show_icons=true&count_private=false" height="180" width="420"/>
@@ -26,10 +25,10 @@
 
 ---
 
-## 🤡 and
+## 🤡 p250
 
 <p align="center">
-fuck meta
+fah meta
 </p>
 
 ---
